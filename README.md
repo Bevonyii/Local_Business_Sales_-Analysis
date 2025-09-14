@@ -48,10 +48,35 @@ The dataset includes:
 
 ## Visualizations
 
-- Revenue per Order
-- Monthly Revenue Trends
-- Revenue by Location (Bar Chart)
-- Revenue by Day of the Week
+### Revenue per Order
+![Revenue by Item](revenue_by_item.png)
+
+This chart shows how much revenue each item generated.
+
+### Quantity Sold per Item
+![Quantity by Item](quantity_by_item.png)
+
+This helped compare item popularity with how much money they earned.
+
+### Monthly Revenue Trends
+![Monthly Revenue Trend](monthly_revenue_trend.png)
+
+This helped identify seasonality or spikes in business.
+
+### Revenue by Location (Bar Chart)
+![Revenue by Place Cleaned](place_based_revenue_cleaned_final.png)
+
+A side-by-side bar chart comparing revenue across store locations.
+
+### Revenue by Day of the Week
+![Revenue by Day of the Week](revenue_by_day_of_the_week.png)
+
+This chart shows which days generated the most income — weekends were strongest.
+
+### Revenue Over Time
+![Revenue by Time](revenue_by_time.png)
+
+Line chart of total revenue by day to spot spikes, trends, and lulls.
 
 ---------------------------
 
