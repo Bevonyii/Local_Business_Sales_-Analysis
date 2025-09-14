@@ -71,7 +71,7 @@ A side-by-side bar chart comparing revenue across store locations.
 ### Revenue by Day of the Week
 ![Revenue by Day of the Week](revenue_by_day_of_the_week.png)
 
-This chart shows which days generated the most income — weekends were strongest.
+This chart shows which days generated the most income; weekends were strongest.
 
 ### Revenue Over Time
 ![Revenue by Time](revenue_by_time.png)
